@@ -12,7 +12,7 @@ import {
     Vector3,
     Vector4,
     WebGLRenderTarget
-} from "/vr-ex1/node_modules/three/build/three.module.js";
+} from "/node_modules/three/build/three.module.js";
 
 var Reflector = function ( geometry, options ) {
 
