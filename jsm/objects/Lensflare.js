@@ -15,7 +15,7 @@ import {
     Vector2,
     Vector3,
     Vector4
-} from "/vr-ex1/node_modules/three/build/three.module.js";
+} from "/node_modules/three/build/three.module.js";
 
 var Lensflare = function () {
 
